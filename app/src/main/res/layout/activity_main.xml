@@ -11,6 +11,6 @@
         android:layout_centerInParent="true"
         android:text="@string/call_me"
         android:onClick="call_me"/>
-    <!--you can give it a id or you can apply clickOn Function-->
+    <!--you can give it a id or you can apply onClick Function-->
 
 </RelativeLayout>
